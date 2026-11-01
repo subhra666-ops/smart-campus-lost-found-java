@@ -1,0 +1,9 @@
+# Compiled Java files
+out/
+*.class
+
+# Runtime data created when the program runs
+data/
+
+# VS Code settings
+.vscode/
