@@ -4,10 +4,10 @@
 
 A console-based Java application where students can report lost items, submit found items, search for belongings, and automatically match lost and found records.
 
-- **Name:** YOUR NAME HERE
-- **Roll No / Enrollment No:** YOUR ROLL NUMBER HERE
-- **Course:** BCA I Semester
-- **Subject Code:** BCA111P
+- **Name:** Subhra Chinmay
+
+- **Course:** BTech
+  
 
 ---
 
